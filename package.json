@@ -6,12 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-  },
+},
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
     "@vercel/node": "^2.0.0"
-  },
+},
   "engines": {
-    "node": "18.x"
-  }
+    "node": "22.x"
+}
 }
