@@ -1,0 +1,17 @@
+{
+  "name": "obito-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "@vercel/node": "^2.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
